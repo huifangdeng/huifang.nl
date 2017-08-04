@@ -1,0 +1,21 @@
+baseurl = "http://www.huifang.nl/"
+languageCode = "zh-CN"
+title = "Filou的主页"
+theme = "hugo-theme-minos"
+
+[params]
+googleAnalytics = "UA-103272114-1"
+
+disqusShortname = "huifang"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "关于"
+    url = "/about/"
+    
+[[menu.main]]
+    name = "联系"
+    url = "/contact/"
+    
