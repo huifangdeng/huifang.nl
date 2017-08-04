@@ -1,6 +1,6 @@
 baseurl = "http://www.huifang.nl/"
 languageCode = "zh-CN"
-title = "Filou的主页"
+title = "FILOU VAN VLIET"
 theme = "hugo-theme-minos"
 
 [params]
