@@ -3,6 +3,8 @@ languageCode = "zh-CN"
 title = "HUIFANG & FILOU "
 theme = "hugo-theme-minos"
 
+paginate = 5 
+
 [params]
 googleAnalytics = "UA-103272114-1"
 
