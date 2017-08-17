@@ -1,6 +1,6 @@
 baseurl = "http://www.huifang.nl/"
 languageCode = "zh-CN"
-title = "HUIFANG & FILOU "
+title = "FILOU & HUIFANG"
 theme = "hugo-theme-minos"
 
 paginate = 5 
