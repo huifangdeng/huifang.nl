@@ -5,7 +5,6 @@ date = "2017-08-03"
 slug: about
 Categories:
   - Filou
-comment = FALSE
 ---
 
 ![filou](/img/filouprofile.png)
