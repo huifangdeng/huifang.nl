@@ -1,8 +1,11 @@
-+++
-date = "2017-08-03"
+---
 title = "关于"
-hidden = true
-+++
+author: Huifang
+date = "2017-08-03"
+slug: about
+Categories:
+  - Filou
+---
 
 ![filou](/img/filouprofile.png)
  
