@@ -1,7 +1,7 @@
 ---
-title = "关于"
-author: Huifang
-date = "2017-08-03"
+title: 关于
+author: Filou
+date: '2017-08-03'
 slug: about
 Categories:
   - Filou
