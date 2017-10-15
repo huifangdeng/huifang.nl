@@ -1,5 +1,5 @@
 ---
-title: 一个月之后
+title: 两个月之后
 author: 铲屎官
 date: '2017-10-14'
 slug: avocado-tree
