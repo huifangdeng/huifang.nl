@@ -1,6 +1,6 @@
 ---
-title: 
-author: 冬天该做的事
+title: 冬天该做的事
+author: Filou
 date: '2017-11-05'
 slug: filou-s-winter
 categories:
