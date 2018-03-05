@@ -1,7 +1,7 @@
 ---
 title: 好热啊
 author: 铲屎官
-date: '2018-02-24'
+date: '2018-03-05'
 slug: good-weather
 categories:
   - 铲屎官
