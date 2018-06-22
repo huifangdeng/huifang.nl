@@ -13,26 +13,26 @@ categories:
 
 本着安排集体活动的两个关键词“有趣”和“竞争”的原则，下午也安排了zoo escape游戏。不过本官今年对争夺第一兴趣倒是不大。因为去年只顾着名次，活生生错过了在樱桃园饱食一餐的机会。那可是新上市的、饱满的、发着光的大樱桃啊！所以今年吸取教训当回猪队友，试镜头试得挺开心。
 
-![amersfoor-zoo](/img/180618a)
+![amersfoor-zoo](/img/180618a.jpg)
 
-![amersfoor-zoo](/img/180618b)
+![amersfoor-zoo](/img/180618b.jpg)
 
-![amersfoor-zoo](/img/180618c)
+![amersfoor-zoo](/img/180618c.jpg)
 
-![amersfoor-zoo](/img/180618d)
+![amersfoor-zoo](/img/180618d.jpg)
 
-![amersfoor-zoo](/img/180618e)
+![amersfoor-zoo](/img/180618e.jpg)
 
-![amersfoor-zoo](/img/180618f)
+![amersfoor-zoo](/img/180618f.jpg)
 
-![amersfoor-zoo](/img/180618g)
+![amersfoor-zoo](/img/180618g.jpg)
 
-![amersfoor-zoo](/img/180618h)
+![amersfoor-zoo](/img/180618h.jpg)
 
-![amersfoor-zoo](/img/180618i)
+![amersfoor-zoo](/img/180618i.jpg)
 
-![amersfoor-zoo](/img/180618j)
+![amersfoor-zoo](/img/180618j.jpg)
 
-![amersfoor-zoo](/img/180618k)
+![amersfoor-zoo](/img/180618k.jpg)
 
-![amersfoor-zoo](/img/180618l)
+![amersfoor-zoo](/img/180618l.jpg)

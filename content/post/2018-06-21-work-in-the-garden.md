@@ -9,6 +9,6 @@ categories:
 
 周末在花园除草发现了一条很飘逸的毛毛虫。
 
-![maomaochong](/img/180621a)
+![maomaochong](/img/180621a.jpg)
 
-![maomaochong](/img/180621b)
+![maomaochong](/img/180621b.jpg)
