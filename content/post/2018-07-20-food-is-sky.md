@@ -19,15 +19,18 @@ categories:
 
 另外一方面，我当然是关心动物的。但我更关心的是它们在生的时候有没有被好好的对待，屠宰的时候是不是以最合理、最少痛苦的方式死去。巴西主厨Alex Atala说，“每一顿饭的背后，都有着死亡。”^[那个，在Cheif's table的一集里看到的。]。另一位来自东方的智者，丰子恺老先生，在他的《护生画集》里面说过这样一段话：
 
->“护生者，护心也。（去除残忍心，长养慈悲心，然后拿此心来待人处世。）－－－－这是护生的主要目的。”
+“护生者，护心也。（去除残忍心，长养慈悲心，然后拿此心来待人处世。）－－－－这是护生的主要目的。”
 
 老先生认为，残杀动植物这种举动，足以养成人的残忍心，并劝世人切勿拘泥字面。“倘拘泥字面，而欲保护一切动植物，那么你开水不得喝，饭也不得吃。”。而那些“掩耳盗铃”的事情，“只要不伤害我们的慈悲心，即不违背“护生”的主要目的。”。
 
-我说，只要动植物们得到了好的对待，没有不必要的痛苦，我们对食物做到尊重和不浪费，吃什么完全都是可以接受的。^说回来，吃什么还是个人的选择嘛。
+我说，只要动植物们得到了好的对待，没有不必要的痛苦，我们对食物做到尊重和不浪费，吃什么完全都是可以接受的^[说回来，吃什么还是个人的选择嘛。]。
 
 俗话又说：上帝为你关上一扇门，就一定会给你打开一扇（甜品的）窗。
 
 那些说吃素减肥的，放学操场见！
 
-<a href="https://www.youtube.com/watch?v=4MCXwKvJwUU" 
-alt="I'd Eat Anything for Lunch, (But I Won't Eat That)" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/4MCXwKvJwUU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+[![I'd Eat Anything for Lunch, (But I Won't Eat That)](http://img.youtube.com/vi/4MCXwKvJwUU/0.jpg)](https://www.youtube.com/watch?v=4MCXwKvJwUU)
