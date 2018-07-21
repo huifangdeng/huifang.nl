@@ -29,6 +29,6 @@ categories:
 
 那些说吃素减肥的，放学操场见！
 
-请欣赏名曲“I'd Eat Anything for Lunch, (But I Won't Eat That)”
+请欣赏名曲“I'd Eat Anything for Lunch, (But I Won't Eat That)”。
 
 [![I'd Eat Anything for Lunch, (But I Won't Eat That)](http://img.youtube.com/vi/4MCXwKvJwUU/0.jpg)](https://www.youtube.com/watch?v=4MCXwKvJwUU)
