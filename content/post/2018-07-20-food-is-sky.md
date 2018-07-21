@@ -29,8 +29,6 @@ categories:
 
 那些说吃素减肥的，放学操场见！
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/4MCXwKvJwUU/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+请欣赏名曲“I'd Eat Anything for Lunch, (But I Won't Eat That)”
 
 [![I'd Eat Anything for Lunch, (But I Won't Eat That)](http://img.youtube.com/vi/4MCXwKvJwUU/0.jpg)](https://www.youtube.com/watch?v=4MCXwKvJwUU)
