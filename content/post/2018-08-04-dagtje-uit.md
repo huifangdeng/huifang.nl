@@ -9,5 +9,5 @@ categories:
 
 ![Heiligenbergerbeek](/img/180804.JPG)
 
-九点出门按NS给的路线在[Heiligenbergerbeek](https://www.ns.nl/dagje-uit/wandelen/heiligenbergerbeek.html)徒步了3小时。现在两腿发软中。。。
+九点出门，按NS给的路线在[Heiligenbergerbeek](https://www.ns.nl/dagje-uit/wandelen/heiligenbergerbeek.html)徒步了3小时。现在两腿发软中。。。
 
