@@ -9,12 +9,12 @@ categories:
 
 每年在海边的风筝节我都会跑去看那些魔幻的大风筝们，今年为了吃上一口螺蛳粉而错过了大魔王风筝。可惜呀，可惜！不过，也吃上了螺蛳粉啊：）
 
-![kite](/img/1800929a.JPG)
+![kite](/img/180929a.JPG)
 
-![kite](/img/1800929b.JPG)
+![kite](/img/180929b.JPG)
 
-![kite](/img/1800929c.JPG)
+![kite](/img/180929c.JPG)
 
-![kite](/img/1800929d.JPG)
+![kite](/img/180929d.JPG)
 
-![kite](/img/1800929e.JPG)
+![kite](/img/180929e.JPG)
