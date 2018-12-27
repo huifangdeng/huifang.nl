@@ -9,6 +9,6 @@ categories:
 
 是巧克力味的佛祖先生的头。
 
-![/img/181224d.JPG]
+![](/img/181224d.JPG)
 
-![/img/181224e.JPG]
+![](/img/181224e.JPG)
