@@ -1,6 +1,6 @@
 baseurl = "http://www.huifang.nl/"
 languageCode = "zh-CN"
-title = "FILOU & HUIFANG"
+title = "猫猫和老奴的幸福生活"
 theme = "hugo-theme-minos"
 
 paginate = 5 
