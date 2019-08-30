@@ -1,5 +1,5 @@
 ---
-title: weekend in forest
+title: 周末应该去森林散步
 author: 铲屎官
 date: '2016-04-15'
 slug: weekend-in-forest

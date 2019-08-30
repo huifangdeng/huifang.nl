@@ -13,24 +13,24 @@ categories:
 
 店里只有一个吧台和几张小桌子，来这的好像都是一些熟客，店员对他们的口味喜好也十分了解。我们点了两份炸肉条（croquette）和咖啡，味道都非常不错。如果在阿姆斯特丹逛累了或是想试试经典的荷兰小吃，这里会是很好的选择。
 
-一些实用信息： 
+一些实用信息：   
 
 Van Dobben自1940s开张（事实证明还没有100岁），被认为是阿姆斯特丹最好吃的小吃店。身穿白大褂的店员也是小吃吧的特色之一。 
 
-地址：荷兰，阿姆斯特丹，Korte Reguliersdwarsstraat 5-9 
+地址：荷兰，阿姆斯特丹，Korte Reguliersdwarsstraat 5-9   
 
-交通：电车，4/9/14 Rembrandtplein 
+交通：电车，4/9/14 Rembrandtplein   
 
-价格：约2-8欧元/小吃 
+价格：约2-8欧元/小吃   
 
-营业时间： 
+营业时间：   
 
-星期一－星期三：10am-9pm 
-星期四：10am-1am 
-星期五－星期六：10am-2am 
-星期日：10:30am-8pm 
+*星期一－星期三：10am-9pm 
+*星期四：10am-1am 
+*星期五－星期六：10am-2am 
+*星期日：10:30am-8pm 
 网址：[www.eetsalonvandobben.nl](www.eetsalonvandobben.nl) 
 
-![](/img/151104a.jpg)
+![](/img/151104b.jpg)
 
-每个荷兰人都爱的小吃－炸肉条（croquette）
+*每个荷兰人都爱的小吃－炸肉条（croquette）*
