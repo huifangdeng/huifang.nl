@@ -7,6 +7,6 @@ categories:
   - Ruby
 ---
 
-![](/img/190904.jpg)
+![](/img/190902.jpg)
 
 Call me Michael Angelo Ruby
