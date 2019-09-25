@@ -5,6 +5,8 @@ date: '2019-06-23'
 slug: rotterdam
 categories:
   - 铲屎官
+tags:
+  - 游记   
 ---
 
 这里有好吃的煎饼果子！

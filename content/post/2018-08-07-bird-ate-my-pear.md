@@ -5,6 +5,8 @@ date: '2018-08-07'
 slug: bird-ate-my-pear
 categories:
   - 铲屎官
+tags:
+  - 家务  
 ---
 
 ![pear](/img/180807a.JPG)

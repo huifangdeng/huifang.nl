@@ -5,6 +5,8 @@ date: '2018-06-21'
 slug: work-in-the-garden
 categories:
   - 铲屎官
+tags:
+  - 家务  
 ---
 
 周末在花园除草发现了一条很飘逸的毛毛虫。

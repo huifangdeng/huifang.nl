@@ -5,6 +5,8 @@ date: '2019-06-23'
 slug: stuttgart
 categories:
   - 铲屎官
+tags:
+  - 游记  
 ---
 
 在梅赛德斯－奔驰博物馆里，看到了很酷的车，超兴奋。

@@ -5,6 +5,8 @@ date: '2017-10-14'
 slug: avocado-tree
 categories:
   - 铲屎官
+tags:
+  - 植物
 ---
 
 ![avocado-tree](/img/171014aaa.JPG)

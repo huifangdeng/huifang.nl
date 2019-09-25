@@ -5,6 +5,9 @@ date: '2017-11-30'
 slug: winter-activity
 categories:
   - Filou
+tags:
+  - 猫猫  
+  - 家务
 ---
 
 ![sjoelen](/img/171130a.jpg)

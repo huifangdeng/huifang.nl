@@ -5,6 +5,8 @@ date: '2019-07-31'
 slug: postelein
 categories:
   - 铲屎官
+tags:
+  - 素食    
 ---
 
 ![](/img/190716.jpg)

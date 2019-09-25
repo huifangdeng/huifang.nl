@@ -5,6 +5,8 @@ date: '2019-08-23'
 slug: highlight-of-the-day
 categories:
   - 铲屎官
+tags:
+  - 猫猫    
 ---
 
 ![](/img/190823.JPG)

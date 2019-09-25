@@ -5,6 +5,8 @@ date: '2018-12-27'
 slug: chirstmas-party
 categories:
   - Filou
+tags:
+  - 猫猫    
 ---
 
 虽然我喜欢圣诞树，可是人类的聚会有时候真是无聊。

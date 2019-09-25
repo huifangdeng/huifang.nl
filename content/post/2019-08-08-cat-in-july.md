@@ -5,6 +5,8 @@ date: '2019-08-08'
 slug: cat-in-july
 categories:
   - 铲屎官
+tags:
+  - 猫猫    
 ---
 
 ![](/img/190718a.jpg)

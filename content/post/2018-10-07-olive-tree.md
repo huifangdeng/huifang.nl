@@ -5,6 +5,8 @@ date: '2018-10-07'
 slug: olive-tree
 categories:
   - 铲屎官
+tags:
+  - 植物  
 ---
 
 终于有一棵橄榄树啦，唔哈！

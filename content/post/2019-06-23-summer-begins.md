@@ -5,6 +5,8 @@ date: '2019-06-23'
 slug: summer-begins
 categories:
   - 铲屎官
+tags:
+  - 家务    
 ---
 
 立夏这天很重要，因为本官生日：）

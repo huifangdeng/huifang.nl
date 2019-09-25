@@ -5,6 +5,8 @@ date: '2019-06-23'
 slug: alberobello
 categories:
   - 铲屎官
+tags:
+  - 游记   
 ---
 
 虽然说trulli很特别，我说这里感觉是长沙太平街，哈哈。

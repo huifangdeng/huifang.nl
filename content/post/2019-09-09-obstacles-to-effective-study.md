@@ -5,6 +5,8 @@ date: '2019-09-09'
 slug: obstacles-to-effective-study
 categories:
   - Ruby
+tags:
+  - 猫猫  
 ---
 
 ![](/img/190909.jpg)

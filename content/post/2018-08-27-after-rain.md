@@ -5,6 +5,8 @@ date: '2018-08-27'
 slug: after-rain
 categories:
   - 铲屎官
+tags:
+  - 瞎扯  
 ---
 
 下过雨后的天空总是很干净。

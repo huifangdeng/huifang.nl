@@ -5,6 +5,9 @@ date: '2018-07-20'
 slug: food-is-sky
 categories:
   - 铲屎官
+tags:
+  - 素食
+  - 瞎扯
 ---
 
 去年，由于工作原因，和同事一起参观了荷兰最大的肉类生产企业[Vion](https://www.vionfoodgroup.com/)，并目睹了一头猪从进入流水线到打包进各种包装盒的整个过程。不，准确的说是两万头。

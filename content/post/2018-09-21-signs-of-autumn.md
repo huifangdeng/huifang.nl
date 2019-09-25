@@ -5,6 +5,8 @@ date: '2018-09-21'
 slug: signs of autumn
 categories:
   - 铲屎官
+tags:
+  - 瞎扯  
 ---
 
 上周，在火车上第一次闻到有人吃橘子，这，这，这可不是秋天的味道吗！

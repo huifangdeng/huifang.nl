@@ -5,6 +5,8 @@ date: '2019-09-08'
 slug: white-dews
 categories:
   - 铲屎官
+tags:
+  - 猫猫    
 ---
 
 ![](/img/190908a.jpg)

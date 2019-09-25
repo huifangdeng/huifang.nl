@@ -5,6 +5,8 @@ date: '2018-12-12'
 slug: apple-crumble
 categories:
   - 铲屎官
+tags:
+  - 烘培  
 ---
 
 今天得到的人生经验是：“烘培这件事还是得用称”。

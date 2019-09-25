@@ -5,6 +5,8 @@ date: '2018-12-07'
 slug: 12yue
 categories:
   - 铲屎官
+tags:
+  - 瞎扯  
 ---
 
 还能有什么其他的呢，吃呗。

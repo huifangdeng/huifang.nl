@@ -5,6 +5,8 @@ date: '2019-09-13'
 slug: ficus-lyrata
 categories:
   - 铲屎官
+tags:
+  - 植物
 ---
 
 ![](/img/190913a.jpg)

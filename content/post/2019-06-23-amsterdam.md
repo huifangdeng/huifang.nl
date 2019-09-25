@@ -5,6 +5,8 @@ date: '2019-06-23'
 slug: amsterdam
 categories:
   - 铲屎官
+tags:
+  - 游记   
 ---
 
 讨论了好几年的家庭旅行今年终于实现了！

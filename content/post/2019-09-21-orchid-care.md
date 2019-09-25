@@ -5,6 +5,8 @@ date: '2019-09-21'
 slug: orchid-care
 categories:
   - 铲屎官
+tags:
+  - 植物
 ---
 
 ![orchid care](/img/190921.JPG)

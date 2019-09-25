@@ -5,6 +5,8 @@ date: '2019-05-04'
 slug: cold-noodles
 categories:
   - 铲屎官
+tags:
+  - 素食   
 ---
 
 温度只要升个几度，谁都没法阻挡长沙人民做凉菜的热情。

@@ -5,6 +5,8 @@ date: '2019-02-24'
 slug: busy-spring
 categories:
   - 铲屎官
+tags:
+  - 游记   
 ---
 
 ![busy-spring](/img/190224a.JPG)

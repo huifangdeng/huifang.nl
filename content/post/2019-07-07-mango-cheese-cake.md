@@ -5,6 +5,8 @@ date: '2019-07-07'
 slug: mango-cheese-cake
 categories:
   - 铲屎官
+tags:
+  - 烘培    
 ---
 
 ![](/img/190706.jpg) 

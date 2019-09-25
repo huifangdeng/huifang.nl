@@ -5,6 +5,8 @@ date: '2018-12-26'
 slug: i-can-still-eat
 categories:
   - 铲屎官
+tags:
+  - 家务  
 ---
 
 朕还能吃。

@@ -5,6 +5,8 @@ date: '2019-08-21'
 slug: orange-cat
 categories:
   - 铲屎官
+tags:
+  - 猫猫    
 ---
 
 ![](/img/190821a.jpg)

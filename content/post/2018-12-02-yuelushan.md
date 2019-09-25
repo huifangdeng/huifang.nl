@@ -5,6 +5,8 @@ date: '2018-12-02'
 slug: yuelushan
 categories:
   - 铲屎官
+tags:
+  - 家务  
 ---
 
 秋天的最后一个节气，一个人去爬了岳麓山，这才算真正回了家。

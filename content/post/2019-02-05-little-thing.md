@@ -5,6 +5,8 @@ date: '2019-02-05'
 slug: little-thing
 categories:
   - Ruby
+tags:
+  - 猫猫  
 ---
 
 不拉稀了，臭屁也放得少了，所以晚餐又给喂点鱼罐头了。每天吃得很是开心，体重也长到了1.7公斤。

@@ -5,6 +5,8 @@ date: '2018-03-05'
 slug: good-weather
 categories:
   - 铲屎官
+tags:
+  - 瞎扯  
 ---
 
 ![de-vliet](/img/180305b.jpg)

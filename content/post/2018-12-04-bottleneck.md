@@ -5,6 +5,8 @@ date: '2018-12-04'
 slug: pingjing
 categories:
   - 铲屎官
+tags:
+  - 植物  
 ---
 
 一棵瓶颈了一年多的牛油果树和它的[婴儿时期](http://www.huifang.nl/2017/10/14/avocado-tree/)、[卤蛋时期](http://www.huifang.nl/2017/08/07/avocado/)。

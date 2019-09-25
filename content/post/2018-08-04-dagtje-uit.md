@@ -5,6 +5,8 @@ date: '2018-08-04'
 slug: daguitje
 categories:
   - 铲屎官
+tags:
+  - 游记  
 ---
 
 ![Heiligenbergerbeek](/img/180804.JPG)

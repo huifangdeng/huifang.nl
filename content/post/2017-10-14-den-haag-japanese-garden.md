@@ -5,6 +5,8 @@ date: '2017-10-14'
 slug: den-haag-japanese-park
 categories:
   - 铲屎官
+tags:
+  - 游记  
 ---
 
 春天的时候又去逛了一下日本花园，还是一如既往的美。

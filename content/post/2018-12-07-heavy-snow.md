@@ -5,6 +5,8 @@ date: '2018-12-07'
 slug: daxue
 categories:
   - 铲屎官
+tags:
+  - 瞎扯  
 ---
 
 漆黑的下雨天适合在家玩游戏。

@@ -5,6 +5,8 @@ date: '2019-06-23'
 slug: strasbourg
 categories:
   - 铲屎官
+tags:
+  - 游记   
 ---
 
 在斯特拉斯堡的两天，天气完美到让人觉得，这里应该是神仙住的地方吧！

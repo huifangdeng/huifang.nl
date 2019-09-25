@@ -5,6 +5,8 @@ date: '2019-01-30'
 slug: too-much-food
 categories:
   - Ruby
+tags:
+  - 猫猫  
 ---
 
 ![](/img/190130a.JPG)

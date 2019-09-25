@@ -5,6 +5,8 @@ date: '2018-03-25'
 slug: edinburgh
 categories:
   - 铲屎官
+tags:
+  - 游记  
 ---
 
 “人的一生能够拥有很多美好的东西，让人苦恼的是不能同时拥有。”

@@ -5,6 +5,8 @@ date: '2018-12-29'
 slug: the-most-beautiful-cat
 categories:
   - 铲屎官
+tags:
+  - 猫猫    
 ---
 
 虽说拥有盛世美颜，每天需要铲的屎量也不小。

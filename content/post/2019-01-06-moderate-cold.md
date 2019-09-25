@@ -5,6 +5,8 @@ date: '2019-01-06'
 slug: xiaohan
 categories:
   - 铲屎官
+tags:
+  - 家务  
 ---
 
 用装柠檬的网兜做了一袋瓜子给鸟吃。

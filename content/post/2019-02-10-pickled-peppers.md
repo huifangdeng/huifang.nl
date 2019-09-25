@@ -5,6 +5,8 @@ date: '2019-02-10'
 slug: duolajiao
 categories:
   - 铲屎官
+tags:
+  - 家务  
 ---
 
 爸爸种的、妈妈做得剁辣椒吃光了。

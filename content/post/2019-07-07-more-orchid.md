@@ -5,6 +5,8 @@ date: '2019-07-07'
 slug: more-orchid
 categories:
   - 铲屎官
+tags:
+  - 植物    
 ---
 
 去超市买菜居然发现来了新品种，买！最后一棵是同事送的生日礼物。

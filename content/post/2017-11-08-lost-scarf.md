@@ -5,6 +5,8 @@ date: '2017-11-08'
 slug: lost-scarf
 categories:
   - 铲屎官
+tags:
+  - 瞎扯  
 ---
 
 早上上班把姐姐送的红围巾忘在了火车上，本官甚是难过。

@@ -5,6 +5,8 @@ date: '2019-08-08'
 slug: liqiu
 categories:
   - 铲屎官
+tags:
+  - 家务    
 ---
 
 ![](/img/190808.jpg)

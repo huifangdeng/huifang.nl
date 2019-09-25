@@ -5,6 +5,8 @@ date: '2019-05-01'
 slug: nice-weather-day
 categories:
   - 铲屎官
+tags:
+  - 游记   
 ---
 不需要理由。
 
