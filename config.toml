@@ -17,5 +17,9 @@ disqusShortname = "huifang"
     name = "关于"
     url = "/about/"
     
+[[menu.main]]
+    name = "标签"
+    url = "/tag/"    
+    
 
     
