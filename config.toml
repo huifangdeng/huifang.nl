@@ -18,7 +18,7 @@ disqusShortname = "huifang"
     url = "/about/"
     
 [[menu.main]]
-    name = "标签"
+    name = "分类"
     url = "http://www.huifang.nl/tags/"    
     
 
