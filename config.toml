@@ -1,6 +1,6 @@
 baseurl = "http://www.huifang.nl/"
 languageCode = "zh-CN"
-title = "芝麻&绿豆"
+title = "芝麻札记"
 theme = "hugo-theme-minos"
 
 paginate = 10 
